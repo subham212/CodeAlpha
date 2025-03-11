@@ -21,6 +21,17 @@ need to design a user interface with buttons for
 entering data and a display screen for
 displaying the results.
 
-#### Preview 👉https://calculator-ui212.netlify.app/
+#### Preview 👉 https://calculator-ui212.netlify.app/
+
+
+
+## Task-3 👇
+Building a personal portfolio website is one of the most
+simple yet tough front-end project ideas. You might
+begin by using your website as a resume. This means
+you can add information to the website about your
+experience, talents, and expertise
+
+#### Preview 👉 https://subham-portfolio-test.netlify.app/
 
 
